@@ -1,6 +1,6 @@
 package studay5
 
-import java.Inject
+import wjava.Inject
 
 class GS
 {

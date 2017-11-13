@@ -1,6 +1,6 @@
 package studay4
 
-import java.Inject
+import wjava.Inject
 
 class Base1
 class Base2

@@ -1,4 +1,4 @@
-package java;
+package wjava;
 
 public class aTest {
     static
