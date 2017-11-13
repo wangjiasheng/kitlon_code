@@ -1,5 +1,5 @@
 package studay5
-//为数据类生成的 Component 函数 
+//为数据类生成的 Component 函数
 data class Clazz(var name:String = "username",var passwd:String="password")
 {
 
