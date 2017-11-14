@@ -1,6 +1,6 @@
 package studay2
 
-//单例
+//单例对象
 object single{
     var str="haha";
 }
