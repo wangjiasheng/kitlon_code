@@ -2,126 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a40fe200-a9cc-4892-8a65-c8a6410fac28" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kotlinStu/lib/json.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kotlinStu/.idea/libraries/json.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kotlinStu/.idea/libraries/json_20171018.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kotlinStu/src/studay9/stu0141.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kotlinStu/src/studay9/stu0142.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kotlinStu/src/studay9/stu0143.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kotlinStu/src/studay9/stu0144.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kotlinStu/src/studay9/stu0145.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kotlinStu/src/studay9/stu0146.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kotlinStu/src/studay9/stu0147.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kotlinStu/src/studay9/stu0148.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kotlinStu/src/studay9/stu0149.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kotlinStu/src/studay9/stu0150.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kotlinStu/src/studay9/stu0151.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kotlinStu/src/studay9/stu0152.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kotlinStu/src/studay9/stu0153.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kotlinStu/src/wjava/Ems.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kotlinStu/src/wjava/Java.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kotlinStu/src/importjava/Ann.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kotlinStu/src/importjava/AnnArrayValue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kotlinStu/src/importjava/AnnWithValue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kotlinStu/src/studay9/stu0154.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kotlinStu/src/studay9/stu0155.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../kotlinStu/src/studay9/stu0156.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/META-INF/kotlinStu.kotlin_module" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/META-INF/kotlinStu.kotlin_module" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0001Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0001Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0002Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0002Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0003Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0003Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0004Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0004Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0005Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0005Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0006Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0006Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0007Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0007Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0008Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0008Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0009Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0009Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0010Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0010Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0011Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0011Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0012Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0012Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0013Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0013Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0014Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0014Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0015Kt$main$$inlined$sortedBy$1.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0015Kt$main$$inlined$sortedBy$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0015Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0015Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0016Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0016Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0017Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0017Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0018Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/Stu0018Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/data.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay1/data.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Function.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Function.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/GsonTest.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/GsonTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Stu0019Kt$main$p$2.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Stu0019Kt$main$p$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Stu0019Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Stu0019Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Stu0020Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Stu0020Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Stu0021Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Stu0021Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Stu0022Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Stu0022Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Stu0023Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Stu0023Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Stu0024Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Stu0024Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Stu0025Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Stu0025Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Stu0026Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Stu0026Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Stu0027Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Stu0027Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Stu0028Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Stu0028Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Stu0029Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Stu0029Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Stu0030Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Stu0030Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Stu0031Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Stu0031Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Stu0032Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Stu0032Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Stu0033Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Stu0033Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Stu0034Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Stu0034Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Stu0035Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/Stu0035Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/single.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay2/single.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay3/Stu0037Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay3/Stu0037Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay3/Stu0038Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay3/Stu0038Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay3/Stu0039Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay3/Stu0039Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay3/Stu0040Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay3/Stu0040Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay3/Stu0041Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay3/Stu0041Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay3/Stu0042Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay3/Stu0042Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay3/Stu0043Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay3/Stu0043Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay3/Stu0044Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay3/Stu0044Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay3/Stu0045Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay3/Stu0045Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay3/Stu0046Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay3/Stu0046Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay3/Stu0047Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay3/Stu0047Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay3/Stu0048Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay3/Stu0048Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay3/Stu0049Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay3/Stu0049Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay3/Stu0050Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay3/Stu0050Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay3/Stu0051Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay3/Stu0051Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay3/Stu0052Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay3/Stu0052Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay3/Stu0053Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay3/Stu0053Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay3/Stu0054Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay3/Stu0054Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base1.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base10.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base10.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base11.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base11.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base12.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base12.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base13.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base13.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base14.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base14.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base15.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base15.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base16.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base16.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base17.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base17.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base18.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base18.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base19.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base19.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base2.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base20.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base20.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base21.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base21.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base3.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base4.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base5.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base6.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base7.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base8.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base9.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Base9.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Extend1.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Extend1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Extend2$DefaultImpls.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Extend2$DefaultImpls.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Extend2.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Extend2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Extend3.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Extend3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Imp2.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Imp2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Impl1.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Impl1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Inter.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Inter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Stdio.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Stdio.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Stdlib.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Stdlib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Stu0055Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Stu0055Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Stu0057Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay4/Stu0057Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay5/GS.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay5/GS.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay5/MYTest.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay5/MYTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay5/Stu0062Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay5/Stu0062Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay5/Stu0063Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay5/Stu0063Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay5/Stu0064Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay5/Stu0064Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay5/Stu0065Kt.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay5/Stu0065Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/target/classes/studay5/TSUP.class" afterPath="$PROJECT_DIR$/../kotlinStu/target/classes/studay5/TSUP.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/.idea/misc.xml" afterPath="$PROJECT_DIR$/../kotlinStu/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../kotlinStu/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/kotlinStu.iml" afterPath="$PROJECT_DIR$/../kotlinStu/kotlinStu.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/src/studay9/stu0153.kt" afterPath="$PROJECT_DIR$/../kotlinStu/src/studay9/stu0153.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../kotlinStu/src/wjava/Ems.kt" afterPath="$PROJECT_DIR$/../kotlinStu/src/wjava/Ems.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/../kotlinStu/out/" />
     <ignored path="$PROJECT_DIR$/../kotlinStu/target/" />
@@ -134,11 +24,93 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="stu0153.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="stu0153.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../kotlinStu/src/studay9/stu0153.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
-              <caret line="5" column="55" lean-forward="false" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+              <caret line="5" column="41" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stu0154.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../kotlinStu/src/studay9/stu0154.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stu0155.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../kotlinStu/src/studay9/stu0155.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="10" column="74" lean-forward="false" selection-start-line="10" selection-start-column="74" selection-end-line="10" selection-end-column="74" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stu0156.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../kotlinStu/src/studay9/stu0156.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="39">
+              <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+              <folding>
+                <element signature="e#17#69#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AnnArrayValue.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../kotlinStu/src/importjava/AnnArrayValue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AnnWithValue.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../kotlinStu/src/importjava/AnnWithValue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stu0144.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../kotlinStu/src/studay9/stu0144.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stu0145.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../kotlinStu/src/studay9/stu0145.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stu0146.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../kotlinStu/src/studay9/stu0146.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-104">
+              <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -150,9 +122,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
-        <option value="AnnotationType" />
-        <option value="Kotlin File" />
+        <option value="Gradle Kotlin DSL Settings" />
         <option value="Class" />
+        <option value="Kotlin File" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -185,12 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../kotlinStu/src/studay7/stu0109.kt" />
-        <option value="$PROJECT_DIR$/../kotlinStu/src/studay7/stu0108.kt" />
-        <option value="$PROJECT_DIR$/../kotlinStu/src/studay7/stu0110.kt" />
-        <option value="$PROJECT_DIR$/../kotlinStu/src/studay7/stu0112.kt" />
-        <option value="$PROJECT_DIR$/../kotlinStu/src/studay7/stu0114.kt" />
-        <option value="$PROJECT_DIR$/../kotlinStu/src/studay7/stu0113.kt" />
         <option value="$PROJECT_DIR$/../kotlinStu/src/studay7/stu01115'.kt" />
         <option value="$PROJECT_DIR$/../kotlinStu/src/studay7/stu0111.kt" />
         <option value="$PROJECT_DIR$/../kotlinStu/src/studay7/stu0115.kt" />
@@ -233,9 +200,15 @@
         <option value="$PROJECT_DIR$/../kotlinStu/src/studay9/stu0152.kt" />
         <option value="$PROJECT_DIR$/../kotlinStu/pox.xml" />
         <option value="$PROJECT_DIR$/../kotlinStu/kotlinStu.iml" />
-        <option value="$PROJECT_DIR$/../kotlinStu/src/studay9/stu0153.kt" />
         <option value="$PROJECT_DIR$/../kotlinStu/src/wjava/Java.java" />
         <option value="$PROJECT_DIR$/../kotlinStu/src/wjava/Ems.kt" />
+        <option value="$PROJECT_DIR$/../kotlinStu/src/studay9/stu0153.kt" />
+        <option value="$PROJECT_DIR$/../kotlinStu/src/studay9/stu0154.kt" />
+        <option value="$PROJECT_DIR$/../kotlinStu/src/studay9/stu0155.kt" />
+        <option value="$PROJECT_DIR$/../kotlinStu/src/importjava/Ann.java" />
+        <option value="$PROJECT_DIR$/../kotlinStu/src/importjava/AnnWithValue.java" />
+        <option value="$PROJECT_DIR$/../kotlinStu/src/studay9/stu0156.kt" />
+        <option value="$PROJECT_DIR$/../kotlinStu/src/importjava/AnnArrayValue.java" />
       </list>
     </option>
   </component>
@@ -252,10 +225,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-31" />
-    <option name="y" value="85" />
+    <option name="x" value="-7" />
+    <option name="y" value="86" />
     <option name="width" value="1346" />
-    <option name="height" value="558" />
+    <option name="height" value="495" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -291,6 +264,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -301,19 +275,43 @@
             <path>
               <item name="kotlinStu" type="b2602c69:ProjectViewProjectNode" />
               <item name="kotlinStu" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kotlinStu" type="b2602c69:ProjectViewProjectNode" />
               <item name="kotlinStu" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="importjava" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kotlinStu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kotlinStu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="studay9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kotlinStu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kotlinStu" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kotlinStu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kotlinStu" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kotlinStu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kotlinStu" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="studay9" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
@@ -350,7 +348,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.wjava.EmsKt">
+  <component name="RunManager" selected="Kotlin.studay9.Stu0154Kt">
     <configuration name="Java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -451,33 +449,33 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="studay9.Stu0142Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="studay9.Stu0142Kt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="kotlinStu" />
-      <envs />
-    </configuration>
-    <configuration name="studay9.Stu0146Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="studay9.Stu0146Kt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="kotlinStu" />
-      <envs />
-    </configuration>
     <configuration name="studay9.Stu0152Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="studay9.Stu0152Kt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="kotlinStu" />
+      <envs />
+    </configuration>
+    <configuration name="studay9.Stu0153Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="studay9.Stu0153Kt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="kotlinStu" />
+      <envs />
+    </configuration>
+    <configuration name="studay9.Stu0154Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="studay9.Stu0154Kt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -500,19 +498,19 @@
       <envs />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.studay9.Stu0142Kt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.studay9.Stu0146Kt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.studay9.Stu0152Kt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.wjava.EmsKt" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Java" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.studay9.Stu0152Kt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.wjava.EmsKt" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Java" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.studay9.Stu0153Kt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.studay9.Stu0154Kt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.wjava.EmsKt" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Java" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.studay9.Stu0152Kt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.studay9.Stu0146Kt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.studay9.Stu0142Kt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.studay9.Stu0154Kt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.studay9.Stu0153Kt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.wjava.EmsKt" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Java" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.studay9.Stu0152Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -533,18 +531,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-31" y="85" width="1346" height="558" extended-state="1" />
+    <frame x="-7" y="86" width="1346" height="495" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31543624" sideWeight="0.11578947" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36458334" sideWeight="0.1255639" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3064877" sideWeight="0.5511278" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36458334" sideWeight="0.8744361" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3064877" sideWeight="0.44887218" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3064877" sideWeight="0.43458647" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -589,85 +587,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../kotlinStu/src/studay8/stu0122.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-          <folding>
-            <element signature="e#17#70#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../kotlinStu/src/studay8/stu0123.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="15" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../kotlinStu/src/studay8/stu0124.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Progressions.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="126" column="93" lean-forward="false" selection-start-line="126" selection-start-column="79" selection-end-line="126" selection-end-column="93" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../kotlinStu/src/studay8/stu0126.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../kotlinStu/src/studay8/stu0127.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../kotlinStu/src/studay8/stu0128.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../kotlinStu/src/studay8/stu0129.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../kotlinStu/src/studay8/stu0125.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../kotlinStu/src/studay8/stu0130.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -675,7 +598,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="19" column="57" lean-forward="false" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -699,7 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -707,7 +628,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -725,7 +645,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -733,7 +652,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -741,7 +659,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="14" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -749,7 +666,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -757,7 +673,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -765,7 +680,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -773,7 +687,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="674" column="1" lean-forward="true" selection-start-line="674" selection-start-column="1" selection-end-line="674" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -781,7 +694,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -789,7 +701,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -797,7 +708,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="246">
           <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -805,23 +715,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="121">
           <caret line="79" column="74" lean-forward="false" selection-start-line="79" selection-start-column="58" selection-end-line="79" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../kotlinStu/src/studay9/stu0146.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../kotlinStu/src/studay9/stu0144.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -829,15 +722,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../kotlinStu/src/studay9/stu0145.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -845,7 +729,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -885,39 +768,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-114">
           <caret line="17" column="48" lean-forward="false" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../kotlinStu/pox.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../kotlinStu/pox.xml" />
     <entry file="file://$PROJECT_DIR$/../kotlinStu/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../kotlinStu/kotlinStu.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../kotlinStu/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -925,7 +783,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="30" column="42" lean-forward="false" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -957,7 +814,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -973,19 +829,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="20" column="40" lean-forward="true" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../kotlinStu/src/wjava/Ems.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-304">
-          <caret line="17" column="28" lean-forward="false" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-          <folding>
-            <element signature="e#15#363#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -993,6 +836,71 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kotlinStu/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kotlinStu/kotlinStu.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kotlinStu/src/wjava/Ems.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-228">
+          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="e#15#317#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kotlinStu/target/classes/studay9/Stu0152Kt.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kotlinStu/target/classes/studay9/Stu0153Kt.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kotlinStu/target/classes/studay9/Example.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kotlinStu/src/studay9/stu0154.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kotlinStu/src/studay9/stu0146.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-104">
+          <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -1000,7 +908,65 @@
     <entry file="file://$PROJECT_DIR$/../kotlinStu/src/studay9/stu0153.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" column="55" lean-forward="false" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+          <caret line="5" column="41" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kotlinStu/src/studay9/stu0145.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kotlinStu/src/studay9/stu0144.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kotlinStu/src/importjava/Ann.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kotlinStu/src/studay9/stu0155.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="10" column="74" lean-forward="false" selection-start-line="10" selection-start-column="74" selection-end-line="10" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kotlinStu/src/importjava/AnnWithValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kotlinStu/src/studay9/stu0156.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding>
+            <element signature="e#17#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kotlinStu/src/importjava/AnnArrayValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
           <folding />
         </state>
       </provider>

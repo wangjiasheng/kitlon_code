@@ -9,12 +9,11 @@ import java.io.InputStreamReader
 import java.net.HttpURLConnection
 import java.net.MalformedURLException
 import java.net.URL
-import java.net.URLDecoder
 import java.text.SimpleDateFormat
-import java.util.*
-
+var number:String="3963220195978";
+//申通快递
 fun main(args: Array<String>) {
-    var urlstr: String = "https://sp0.baidu.com/9_Q4sjW91Qh3otqbppnN2DJv/pae/channel/data/asyncqury?cb=jQuery110205434270565948369_1511337024280&appid=4001&com=&nu=3963220195978&vcode=&token=&_=1511337024281"
+    var urlstr: String = "https://sp0.baidu.com/9_Q4sjW91Qh3otqbppnN2DJv/pae/channel/data/asyncqury?cb=jQuery110205434270565948369_1511337024280&appid=4001&com=&nu=$number&vcode=&token=&_=1511337024281"
     var result: String? = null;
     try {
         val url = URL(urlstr);
